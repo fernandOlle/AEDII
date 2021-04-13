@@ -27,7 +27,7 @@ class Graph():
         min_index = v
 
     return min_index
-
+ 
   # Funtion that implements Dijkstra's single source 
   # shortest path algorithm for a graph represented 
   # using adjacency matrix representation
